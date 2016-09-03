@@ -10,7 +10,7 @@
 /*
 creature.cpp
 */
-#include "common\\creature.h"
+#include "common//creature.h"
 
 
 /*******************************************************************************
@@ -23,7 +23,7 @@ creature.cpp
 /*
 highscore.cpp
 */
-#include "title\\highscore.h"
+#include "title//highscore.h"
 
 
 
@@ -38,17 +38,17 @@ highscore.cpp
 /*
 activate_sleepers.cpp
 */
-#include "basemode\\activate_sleepers.h"
+#include "basemode//activate_sleepers.h"
 
 /*
 activate.cpp
 */
-#include "basemode\\activate.h"
+#include "basemode//activate.h"
 
 /*
 reviewmode.cpp
 */
-#include "basemode\\reviewmode.h"
+#include "basemode//reviewmode.h"
 
 /*******************************************************************************
 *
@@ -60,12 +60,12 @@ reviewmode.cpp
 /*
 sitemode.cpp
 */
-#include "sitemode\\sitemode.h"
+#include "sitemode//sitemode.h"
 
 /*
 newencounter.cpp
 */
-#include "sitemode\\newencounter.h"
+#include "sitemode//newencounter.h"
 
 /*
 talk.cpp
@@ -76,7 +76,7 @@ char talk(Creature &a, int t);
 /*
 stealth.cpp
 */
-#include "sitemode\\stealth.h"
+#include "sitemode//stealth.h"
 
 /*
 advance.cpp
@@ -96,18 +96,18 @@ void advancecreature(Creature &cr);
 /*
 fight.cpp
 */
-#include "combat\\fight.h"
+#include "combat//fight.h"
 
 
 /*
 chase.cpp
 */
-#include "combat\\chase.h"
+#include "combat//chase.h"
 
 /*
 haulkidnap.cpp
 */
-#include "combat\\haulkidnap.h"
+#include "combat//haulkidnap.h"
 
 /*******************************************************************************
 *
@@ -119,12 +119,12 @@ haulkidnap.cpp
 /*
 daily.cpp
 */
-#include "daily\\daily.h"
+#include "daily//daily.h"
 
 /*
 activities.cpp
 */
-#include "daily\\activities.h"
+#include "daily//activities.h"
 
 /*
 date.cpp
@@ -145,7 +145,7 @@ char completerecruitmeeting(recruitst &d, int p, char &clearformess);
 /*
 siege.cpp
 */
-#include "daily\\siege.h"
+#include "daily//siege.h"
 
 /*******************************************************************************
 *
@@ -183,22 +183,22 @@ void majornewspaper(char &clearformess, char canseethings);
 /*
 monthly.cpp
 */
-#include "monthly\\monthly.h"
+#include "monthly//monthly.h"
 
 /*
 lcsmonthly.cpp
 */
-#include "monthly\\lcsmonthly.h"
+#include "monthly//lcsmonthly.h"
 
 /*
 sleeper_update.cpp
 */
-#include "monthly\\sleeper_update.h"
+#include "monthly//sleeper_update.h"
 
 /*
 justice.cpp
 */
-#include "monthly\\justice.h"
+#include "monthly//justice.h"
 /*
 TempFunctions
 Ideally, all of these should be made obsolete

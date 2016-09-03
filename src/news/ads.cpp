@@ -9,7 +9,7 @@ void displaynewsstory(char *story, short *storyx_s, short *storyx_e, int y);
 /*
 stringconversion.cpp
 */
-#include "common\\stringconversion.h"
+#include "common//stringconversion.h"
 
 #include <includeNews.h>
 //#include <includeFunctions.h>

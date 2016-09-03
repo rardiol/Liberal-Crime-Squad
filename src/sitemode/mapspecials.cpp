@@ -34,12 +34,12 @@ This file is part of Liberal Crime Squad.                                       
 /*
 translateid.cpp
 */
-#include "common\\translateid.h"
+#include "common//translateid.h"
 
 /*
 consolesupport.cpp
 */
-#include "common\\consolesupport.h"
+#include "common//consolesupport.h"
 
 //#include <includeNews.h>
 #include <includeFunctions.h>

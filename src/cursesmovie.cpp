@@ -29,7 +29,7 @@
 /*
 consolesupport.cpp
 */
-#include "common\\consolesupport.h"
+#include "common//consolesupport.h"
 
 //#include <includeNews.h>
 //#include <includeFunctions.h>

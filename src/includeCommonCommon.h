@@ -9,12 +9,12 @@
 /*
 commondisplay.cpp
 */
-#include "common\\commondisplay.h"
+#include "common//commondisplay.h"
 
 /*
 commonactions.cpp
 */
-#include "common\\commonactions.h"
+#include "common//commonactions.h"
 
 
 /*
@@ -25,7 +25,7 @@ consolesupport.cpp
 /*
 getnames.cpp
 */
-#include "common\\getnames.h"
+#include "common//getnames.h"
 
 /*
 translateid.cpp
@@ -35,7 +35,7 @@ translateid.cpp
 /*
 equipment.cpp
 */
-#include "common\\equipment.h"
+#include "common//equipment.h"
 
 /*
 stringconversion.cpp

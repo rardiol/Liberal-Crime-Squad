@@ -24,7 +24,7 @@ This file is part of Liberal Crime Squad.                                       
 /*
 commondisplay.cpp
 */
-#include "common\\commondisplay.h"
+#include "common//commondisplay.h"
 //#include <includeNews.h>
 //#include <includeFunctions.h>
 //#include <includeTitle.h>

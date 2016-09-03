@@ -8,7 +8,7 @@
 /*
 translateid.cpp
 */
-#include "common\\translateid.h"
+#include "common//translateid.h"
 
 //#include <includeNews.h>
 //#include <includeFunctions.h>

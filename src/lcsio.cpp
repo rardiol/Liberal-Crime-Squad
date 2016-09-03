@@ -30,7 +30,7 @@ This file is part of Liberal Crime Squad.
 /*
 stringconversion.cpp
 */
-#include "common\\stringconversion.h"
+#include "common//stringconversion.h"
 
 //#include <includeNews.h>
 //#include <includeFunctions.h>

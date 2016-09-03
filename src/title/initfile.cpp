@@ -27,11 +27,11 @@ This file is part of Liberal Crime Squad.
 /*
 stringconversion.cpp
 */
-#include "common\\stringconversion.h"
+#include "common//stringconversion.h"
 /*
 consolesupport.cpp
 */
-#include "common\\consolesupport.h"
+#include "common//consolesupport.h"
 
 //#include <includeNews.h>
 //#include <includeFunctions.h>

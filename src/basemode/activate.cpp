@@ -68,16 +68,16 @@ the bottom of includes.h in the top src folder.
 /*
 translateid.cpp
 */
-#include "common\\translateid.h"
+#include "common//translateid.h"
 /*
 stringconversion.cpp
 */
-#include "common\\stringconversion.h"
+#include "common//stringconversion.h"
 
 /*
 consolesupport.cpp
 */
-#include "common\\consolesupport.h"
+#include "common//consolesupport.h"
 /*******************************************************************************
 *
 *                        The Main Game Screen: Base Mode
@@ -88,9 +88,9 @@ consolesupport.cpp
 /*
 activate.cpp
 */
-#include "basemode\\activate.h"
+#include "basemode//activate.h"
 #include <includeTempFunctions.h>
-#include "common\\help.h"
+#include "common//help.h"
 
 // externs
 

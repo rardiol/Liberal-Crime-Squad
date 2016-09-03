@@ -68,7 +68,7 @@ the bottom of includes.h in the top src folder.
 /*
 translateid.cpp
 */
-#include "common\\translateid.h"
+#include "common//translateid.h"
 
 //#include <includeNews.h>
 //#include <includeFunctions.h>

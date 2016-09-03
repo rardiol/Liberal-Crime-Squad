@@ -30,7 +30,7 @@ This file is part of Liberal Crime Squad.                                       
 /*
 activate_sleepers.cpp
 */
-#include "basemode\\activate_sleepers.h"
+#include "basemode//activate_sleepers.h"
 
 //#include <includeCommonCommon.h>
 
@@ -44,23 +44,23 @@ activate_sleepers.cpp
 /*
 commondisplay.cpp
 */
-#include "common\\commondisplay.h"
+#include "common//commondisplay.h"
 
 /*
 commonactions.cpp
 */
-#include "common\\commonactions.h"
+#include "common//commonactions.h"
 
 
 /*
 consolesupport.cpp
 */
-#include "common\\consolesupport.h"
+#include "common//consolesupport.h"
 
 /*
 getnames.cpp
 */
-#include "common\\getnames.h"
+#include "common//getnames.h"
 
 //
 

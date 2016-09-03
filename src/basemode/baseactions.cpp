@@ -34,7 +34,7 @@ the bottom of includes.h in the top src folder.
 /*
 stringconversion.cpp
 */
-#include "common\\stringconversion.h"
+#include "common//stringconversion.h"
 
 //#include <includeNews.h>
 //#include <includeFunctions.h>
@@ -43,7 +43,7 @@ stringconversion.cpp
 /*
 consolesupport.cpp
 */
-#include "common\\consolesupport.h"
+#include "common//consolesupport.h"
 
 #include <includeTalk.h>
 extern vector<Location *> location;

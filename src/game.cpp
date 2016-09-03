@@ -74,17 +74,17 @@
 /*
 translateid.cpp
 */
-#include "common\\translateid.h"
+#include "common//translateid.h"
 
 /*
 stringconversion.cpp
 */
-#include "common\\stringconversion.h"
+#include "common//stringconversion.h"
 
 /*
 consolesupport.cpp
 */
-#include "common\\consolesupport.h"
+#include "common//consolesupport.h"
 
 #include <includeTitle.h>
 //#include <includeNews.h>
